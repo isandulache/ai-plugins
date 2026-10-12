@@ -1,0 +1,27 @@
+{
+  "author": {
+    "email": "julien.sandulache@gmail.com",
+    "name": "Julien SANDULACHE"
+  },
+  "description": "Assistant personnel pour choisir des plats du r\u00e9pertoire familial et planifier les menus de la semaine selon la saison, le temps disponible et les pr\u00e9sences.",
+  "interface": {
+    "capabilities": [
+      "Interactive"
+    ],
+    "category": "Lifestyle",
+    "defaultPrompt": [
+      "Aide-moi \u00e0 pr\u00e9parer les menus de la semaine \u00e0 partir de mon r\u00e9pertoire familial.",
+      "Propose des plats du r\u00e9pertoire adapt\u00e9s \u00e0 la saison et au temps dont je dispose.",
+      "Construis une liste de courses \u00e0 partir des menus retenus.",
+      "On mange quoi ce soir ?"
+    ],
+    "developerName": "Julien SANDULACHE",
+    "displayName": "Menus familiaux",
+    "longDescription": "Aide \u00e0 composer des menus de semaine \u00e0 partir du r\u00e9pertoire familial de plats, en tenant compte de la saison, du temps de pr\u00e9paration, des personnes pr\u00e9sentes, des pr\u00e9f\u00e9rences et des restes.",
+    "shortDescription": "Menus issus du r\u00e9pertoire familial"
+  },
+  "keywords": [],
+  "name": "menus-familiaux",
+  "skills": "./skills",
+  "version": "0.1.0"
+}
