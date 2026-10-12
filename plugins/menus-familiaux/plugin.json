@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "menus-familiaux",
+  "description": "Assistant personnel pour choisir des plats du répertoire familial et planifier les menus de la semaine selon la saison, le temps disponible et les présences.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Julien SANDULACHE",
+    "url": "https://github.com/isandulache/ai-plugins/plugins/menus-familiaux"
+  },
+  "license": "MIT",
+  "keywords": ["menus", "famille", "repas", "recettes", "planification"]
+}
