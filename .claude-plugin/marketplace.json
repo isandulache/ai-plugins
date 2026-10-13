@@ -1,0 +1,15 @@
+{
+    "name": "isandulache",
+    "description": "Skills and plugins for Claude Code developed by Julien SANDULACHE",
+    "owner": {
+        "name": "Julien SANDULACHE"
+    },
+    "plugins": [
+        {
+            "name": "menus-familiaux",
+            "source": "./plugins/menus-familiaux",
+            "description": "FR: Assistant personnel pour choisir des plats du répertoire familial et planifier les menus de la semaine selon la saison, le temps disponible et les présences.",
+            "version": "0.1.0"
+        }
+    ]
+}
